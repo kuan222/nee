@@ -1,3 +1,3 @@
-.p2{
-background-color: green;
+.logo-bar-area {
+  background-color: red;
 }
